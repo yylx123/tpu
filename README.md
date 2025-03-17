@@ -15,7 +15,7 @@ git clone git@github.com:yylx123/tpu.git
 
 #merge your branch with repository
 cd tpu
-git checkout xxx  # xxx is your branch name
+git checkout -b xxx  # xxx is your branch name
 git pull origin main         #merge
 
 
